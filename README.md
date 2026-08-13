@@ -15,7 +15,7 @@ Click the button below to launch and run the **Hyper-Luxe Kinematics** Gem direc
 
 [![Launch Gem](https://img.shields.io/badge/🚀_LAUNCH_CUSTOM_GEM-CLICK_HERE-ff69b4?style=for-the-badge&logo=google)]([INSERT YOUR PUBLIC GEM URL HERE])
 
-*Direct Link:* `[INSERT YOUR PUBLIC GEM URL HERE]`
+*Direct Link:* `[[INSERT YOUR PUBLIC GEM URL HERE]](https://gemini.google.com/gem/1-GPtl7cE-cd_XMOywDOjnYIsAY6VR7jU?usp=sharing)`
 
 ---
 
