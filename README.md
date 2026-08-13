@@ -13,9 +13,9 @@
 
 Click the button below to launch and run the **Hyper-Luxe Kinematics** Gem directly in Google Gemini:
 
-[![Launch Gem](https://img.shields.io/badge/🚀_LAUNCH_CUSTOM_GEM-CLICK_HERE-ff69b4?style=for-the-badge&logo=google)]([https://gemini.google.com/gem/1-GPtl7cE-cd_XMOywDOjnYIsAY6VR7jU?usp=sharing])
+[![Launch Gem](https://img.shields.io/badge/🚀_LAUNCH_CUSTOM_GEM-CLICK_HERE-ff69b4?style=for-the-badge&logo=google)](https://gemini.google.com/gem/1-GPtl7cE-cd_XMOywDOjnYIsAY6VR7jU?usp=sharing)
 
-*Direct Link:* `[https://gemini.google.com/gem/1-GPtl7cE-cd_XMOywDOjnYIsAY6VR7jU?usp=sharing]`
+*Direct Link:* `https://gemini.google.com/gem/1-GPtl7cE-cd_XMOywDOjnYIsAY6VR7jU?usp=sharing`
 
 ---
 
